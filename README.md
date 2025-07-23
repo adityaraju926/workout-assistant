@@ -41,9 +41,7 @@ The evaluation process used in this project are based on the output files genera
 
 - **User Preference Score**: This metric measures how well the recommendations line up with the users demographics inputted. It compares the gender, experience level, and the rest of the inputted values  
 
-- **Overall Score**
-- Average of all evaluation metrics
-- Provides overall model performance ranking
+- **Overall Score**: This metric is an average of all of the above metrics and summarizes the overall performance of each model
 
 ### Modeling Approach
 
