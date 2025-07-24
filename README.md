@@ -6,7 +6,7 @@ In the fitness industry whether you are a "beginner" or "advanced" individual at
 
 This project addresses these challenges by using a recommendation system that leverages machine learning to provide personalized workout suggestions tailored to individual user profiles.
 
-## Data Source(s)
+## Data Sources
 
 The project utilizes two primary datasets:
 
@@ -26,7 +26,7 @@ There are many attempts of applications that complete the same objective as this
 
 ### Differences in this project
 - **Model Comparison**: This project compares three different approaches, while majority of the other applications focus on using one approach.
-- **Evaluation Strategy**: This project uses a greater variety of evaluation metrics such as diversity, content quality, user preference match, and performance ranking. The other projects use a single evaluation metric.
+- **Evaluation Strategy**: This project uses a greater variety of evaluation metrics such as diversity, content quality, user preference score, and overall performance ranking. The other projects use a single evaluation metric.
 - **Research-Oriented**: This point is based on the prior two, but because of using more models and more complex evaluation metrics, this application is designed primarily for model comparison versus focusing on having a "production-ready" application.
 
 ## Metrics and Models Used
@@ -49,7 +49,7 @@ The evaluation process used in this project are based on the output files genera
 
 - **Traditional Machine Learning (TF-IDF Collaborative Filtering)**: This model uses TF-IDF to create the exercise embeddings from the description, type, body parts, and difficulty. Then, cosine similarity is used to find similar exercises and users based on the prior embeddings to provide the exercise recommendations using content-based similarity matching.
 
-- **Deep Learning (Neural Collaborative Filtering)**: This model uses a collaborative filtering approach by first building neural networks with embedding layers for users and exercises. Then, it trains on the patterns using binary cross-entropy loss and extracts the learned embeddings to find similar exercises and users. Then, the recommendations are provided based on the NN predictions.
+- **Deep Learning (Neural Collaborative Filtering)**: This model uses a collaborative filtering approach by first building neural networks with embedding layers for users and exercises. Then, it trains on the patterns using binary cross-entropy loss and extracts the learned embeddings to find similar exercises and users. Then, the recommendations are provided based on the NN predictions. **This is the approach used for the UI flow**
 
 ## Data Preprocessing Steps
 
