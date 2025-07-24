@@ -1,0 +1,19 @@
+Naive Model Scores:
+  Diversity Score: 0.800
+  Content Quality Score: 0.507
+  User Preference Match: 0.180
+
+Traditional Model Scores:
+  Diversity Score: 0.400
+  Content Quality Score: 0.547
+  User Preference Match: 0.060
+
+Deep Learning Model Scores:
+  Diversity Score: 1.000
+  Content Quality Score: 0.560
+  User Preference Match: 0.180
+
+Overall Scores:
+Deep learning: 0.580
+Naive: 0.496
+Traditional: 0.336

@@ -1,0 +1,15 @@
+Workout: UP Single-Leg Press
+Description: The single-leg leg press is an exercise targeting the quadriceps one leg at a time. Many lifters prefer the leg press to squatting for several reasons, including the perception that it’s safer for the...
+
+Workout: Single-Leg Press - Gethin Variation
+Description: The single-leg leg press is an exercise targeting the quadriceps one leg at a time. Many lifters prefer the leg press to squatting for several reasons, including the perception that it’s safer for the...
+
+Workout: Single-leg leg press
+Description: The single-leg leg press is a machine exercise targeting the leg muscles, including the quads, glutes, and hamstrings. The leg press is often used as an accessory for squats or deadlifts, but can also...
+
+Workout: Leg Press
+Description: The leg press is a machine exercise targeting the quadriceps. It’s favorite among lifters who prefer the seated position to standing with a load on the spine.
+
+Workout: AM Leg Press
+Description: The leg press is a machine exercise targeting the quadriceps. It’s favorite among lifters who prefer the seated position to standing with a load on the spine.
+
